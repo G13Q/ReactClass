@@ -1,5 +1,5 @@
 import React from "react";
-export default function Presentation(props) {
+function Presentation(props) {
     const {nom, prenom} = props
   return (
     <div>
@@ -7,3 +7,5 @@ export default function Presentation(props) {
     </div>
   );
 }
+
+export default Presentation;
