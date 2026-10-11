@@ -1,0 +1,22 @@
+.lmj-categories {
+  text-align: center;
+  padding-top: 30px;
+}
+
+.lmj-categories-select {
+  margin-right: 15px;
+}
+
+.StyleList {
+  background-color: yellowgreen;
+  color: white;
+  margin: 10px;
+  width: 150px;
+  text-align: center;
+  display: inline;
+  position: relative;
+  left: 760px;
+  padding: 10px;
+  border: 1px solid green;
+  border-radius: 12px;
+}
